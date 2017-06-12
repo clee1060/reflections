@@ -1,0 +1,88 @@
+How did viewing a diff between
+two versions help you spot the bug?
+
+Because it only shows differences
+between the two version files, if a
+new file does not have a feature
+that the previous one had that
+someone had wanted to keep, then
+there has to be a difference between
+the old and new file which causes
+the feature to disappear or causes
+the program to crash. Therefore, by
+only showing the differences between
+the new file and old file, it is much
+easier to find what in the code made
+something stop working.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+How could having easy access to the
+entire history of a file make you a
+more efficient programmer in the long
+run?
+
+Because it would take much less time
+to find your mistakes and therefore
+would help you spend way less time
+coding than normal, resulting in
+efficient programming.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+What do you think are the pros and
+cons of manually choosing when to
+create a commit, like you do in Git,
+vs having versions automatically
+saved, like Google Docs does?
+
+The pros of manually choosing when to
+create a commit is that the resulting
+version will be much more likely to
+be able to compile and you can decide
+exactly how many times you want to
+commit and how often. However, if
+someone forgot to commit then it could
+be impossible to revert back.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Why do you think some version control
+systems, like Git, allow saving
+multiple files in one commit, while
+others, like Google Docs, treat each
+file separately?
+
+Because for a program like Git which
+is designed for code, it makes a lot
+sense to allow multiple files to be
+placed into onen commit because these
+files often have parts that are
+connected such as methods or variable
+names. However, in Drive where each
+document is distinct and rarely if
+ever connected, it doesnt make sense
+to allow saving multiple files.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+How can you use the commands git log
+and git diff to view the history of
+files?
+
+You can use git log to display all the
+commits that have been made to a file
+up to that point and git diff to
+analyze the differences between two
+commits.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+How might using version control make
+you more confident to make changes
+that could break something?
+
+Because you always know that if you
+break something then you can always
+revert back to a version of the
+program that works.
