@@ -1,0 +1,21 @@
+
+What happens when you initialize a
+repository? Why do you need to do it?
+It creates a new repository from th
+directory you are in. You need to do
+to be able to do commits and utilize
+the features of git
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+How is the staging area different from
+the working directory and the
+repository? What value do you think it
+offers?
+
+It allows you to do preliminary checks
+to your edits before actually making
+the edit while saving memory.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
