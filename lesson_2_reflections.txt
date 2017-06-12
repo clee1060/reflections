@@ -19,3 +19,14 @@ the edit while saving memory.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+How can you use the staging area to
+make sure you have one commit per
+logical change?
+
+You can use git diff and git diff
+--staged to confirm the changes that
+you've made are in fact the ones that
+you want to make.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
